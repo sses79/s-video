@@ -1,0 +1,17 @@
+# Generated scenes and media stay local.
+/outputs/
+
+# Local system files and credentials.
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+
+# Temporary files and editor state.
+*.tmp
+*.swp
+__pycache__/
+.venv/
+.idea/
+.vscode/
